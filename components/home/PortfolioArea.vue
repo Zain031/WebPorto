@@ -147,18 +147,15 @@ function handleImagePopup(index) {
         <section id="portfolio" :class="`portfolio-area ${props.cls}`">
             <div class="container">
                 <div class="container-inner">
-                    <div class="row">
+                    <div class="row" style="padding-bottom: 2rem;">
                         <div class="col-xl-12 col-lg-12">
                             <div
-                                class="section-title text-center wow fadeInUp delay-0-2s"
+                                class=" text-center wow fadeInUp delay-0-2s"
                             >
-                                <h2>Works & Projects</h2>
+                            <h2 class="section-title" style="font-size: 3rem;">Works & Projects</h2>
+
                                 <p>
-                                    With my focus on Geographic Information
-                                    Systems (GIS), Machine Learning (ML), and
-                                    Software Development, I have the ability to
-                                    provide innovative and effective
-                                    technology-based solutions
+                                    I focus on developing solutions based on Geographic Information Systems (GIS), applying Machine Learning techniques, and software development to solve real-world problems. With a background in Geography and experience in programming technologies, I utilize GIS for spatial analysis and visualization of complex geographic data, while integrating Machine Learning to create more advanced prediction models and analyses.
                                 </p>
                             </div>
                         </div>
