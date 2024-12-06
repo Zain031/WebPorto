@@ -32,25 +32,25 @@ if (typeof window !== "undefined") {
             <div class="container">
                 <div class="header-inner d-flex align-items-center">
                     <!-- START LOGO DESIGN AREA -->
-                    <div class="logo-outer">
+                    <!-- <div class="logo-outer">
                         <div class="logo">
                             <NuxtLink to="/">
-                                <!--
+
                                 <img
                                     src="~/assets/images/logo.png"
                                     alt="Logo"
                                     title="Logo"
-                            /> -->
+                            />
                             </NuxtLink>
                         </div>
-                    </div>
+                    </div> -->
                     <!-- / END LOGO DESIGN AREA -->
                     <!-- START NAV DESIGN AREA -->
                     <div class="nav-outer clearfix mx-auto">
                         <!-- Main Menu -->
                         <nav class="main-menu navbar-expand-lg">
                             <div class="navbar-header">
-                                <div class="mobile-logo">
+                                <!-- <div class="mobile-logo">
                                     <NuxtLink to="/">
                                         <img
                                             src="~/assets/images/logo.png"
@@ -58,7 +58,7 @@ if (typeof window !== "undefined") {
                                             title="Logo"
                                         />
                                     </NuxtLink>
-                                </div>
+                                </div> -->
                                 <!-- Toggle Button -->
                                 <button
                                     type="button"
