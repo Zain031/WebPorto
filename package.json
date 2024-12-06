@@ -1,0 +1,23 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "gsap": "^3.12.5",
+    "nuxt": "^3.13.0",
+    "sass": "^1.79.3",
+    "swiper": "^11.1.14",
+    "vue": "latest",
+    "vue-easy-lightbox": "^1.19.0",
+    "vue-router": "latest",
+    "wow.js": "^1.2.2"
+  }
+}
