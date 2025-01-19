@@ -15,6 +15,19 @@ import portfolio_img_13 from "~/assets/images/projects/17.png";
 import portfolio_img_14 from "~/assets/images/projects/18.png";
 import portfolio_img_15 from "~/assets/images/projects/19.png";
 import portfolio_img_16 from "~/assets/images/projects/20.png";
+import portfolio_img_17 from "~/assets/images/projects/s1.jpeg";
+import portfolio_img_18 from "~/assets/images/projects/s2.jpeg";
+import portfolio_img_19 from "~/assets/images/projects/s3.jpeg";
+import portfolio_img_20 from "~/assets/images/projects/s4.jpeg";
+import portfolio_img_21 from "~/assets/images/projects/s5.png";
+import portfolio_img_22 from "~/assets/images/projects/s6.png";
+import portfolio_img_23 from "~/assets/images/projects/s7.png";
+import portfolio_img_24 from "~/assets/images/projects/s8.png";
+import portfolio_img_25 from "~/assets/images/projects/s9.png";
+import portfolio_img_26 from "~/assets/images/projects/s10.png";
+import portfolio_img_27 from "~/assets/images/projects/s11.jpg";
+import portfolio_img_28 from "~/assets/images/projects/s12.png";
+
 
 const portfolio_data = [
     {
@@ -104,6 +117,80 @@ const portfolio_data = [
         title: "Contant Management System",
         link: "https://mts-pesri-kendari.sch.id/",
     },
+    {
+        id: 17,
+        img: portfolio_img_17,
+        category: "Certificate",
+        title: "Web Development",
+        link: "",
+    },      {
+        id: 18,
+        img: portfolio_img_18,
+        category: "Certificate",
+        title: "Responsive Web",
+        link: "",
+    },      {
+        id: 19,
+        img: portfolio_img_19,
+        category: "Certificate",
+        title: "CSS & Javascript",
+        link: "",
+    },      {
+        id: 21,
+        img: portfolio_img_20,
+        category: "Certificate",
+        title: "HTML & CSS",
+        link: "",
+    },      {
+        id: 22,
+        img: portfolio_img_21,
+        category: "Certificate",
+        title: "Project Management",
+        link: "",
+    },      {
+        id: 23,
+        img: portfolio_img_22,
+        category: "Certificate",
+        title: "CSS",
+        link: "",
+    },      {
+        id: 24,
+        img: portfolio_img_23,
+        category: "Certificate",
+        title: "Full Stack Javascript",
+        link: "",
+    },      {
+        id: 25,
+        img: portfolio_img_24,
+        category: "Certificate",
+        title: "JavaScript",
+        link: "",
+    },      {
+        id: 26,
+        img: portfolio_img_25,
+        category: "Certificate",
+        title: "React JS",
+        link: "",
+    },      {
+        id: 27,
+        img: portfolio_img_26,
+        category: "Certificate",
+        title: "PostgreSQL",
+        link: "",
+    },      {
+        id: 28,
+        img: portfolio_img_27,
+        category: "Certificate",
+        title: "WebGis Development",
+        link: "",
+    },       {
+        id: 2,
+        img: portfolio_img_28,
+        category: "Certificate",
+        title: "Data Science(Python)",
+        link: "",
+    },  
+       
 ];
 
 const categories = [
